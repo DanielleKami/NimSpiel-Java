@@ -21,17 +21,8 @@ Das Nim-Spiel ist ein strategisches Spiel für zwei Spieler, bei dem abwechselnd
 
 ## ▶️ Kompilierung & Ausführung
 
-1. **Kompilieren**:
+Das Spiel lässt sich mit einem **Java-Compiler oder einer IDE (z. B. IntelliJ oder Eclipse)** starten. Es verwendet `Turtle` für die Benutzeroberfläche.
 
-```bash
-javac nimView.java
-```
-
-2. **Ausführen**:
-
-```bash
-java nimView
-```
 
 ---
 
@@ -44,14 +35,14 @@ java nimView
 
 ---
 
+
 ## 📁 Projektstruktur
 
-```
-.
-├── nimView.java     // Hauptklasse mit Spiellogik  und Benutzeroberfläche-Implementierung  
+- `nimView.java` – Hauptklasse mit Spiellogik  und Benutzeroberfläche-Implementierung  
 
-└── NimView.png      // Beispielausgabe des Spiels (Screenshot)
-```
+- `NimView.png` – Bildvorschau des Spiels
+
+- `README.md` – Projektbeschreibung
 
 ---
 

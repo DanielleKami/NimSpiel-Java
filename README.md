@@ -1,4 +1,4 @@
-# 🕹️ Nim-Spiel – Java Version in einer LiveView
+# 🕹️ Nim-Spiel – Java Version in einer LiveView Umgebung
 
 Dies ist eine einfache Java-Implementierung des klassischen **Nim-Spiels** mit grafischer Benutzeroberfläche , das mithilfe von **Turtle**  erstellt wurde.
 
